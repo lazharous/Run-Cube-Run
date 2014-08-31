@@ -3,6 +3,7 @@ Run Cube Run!
 
 It has been made in a day, just to try out 2D in java.
 No fancy images, just lines and colors.
+The project uses Eclipse.
 
 
 Run Cube Run! is under the zlib license
